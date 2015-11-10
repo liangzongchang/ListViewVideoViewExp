@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/AndroidVideoView-master/AndroidVideoView-master.iml" filepath="E:/AndroidVideoView-master/AndroidVideoView-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListViewVideoViewExp.iml" filepath="$PROJECT_DIR$/ListViewVideoViewExp.iml" />
+    </modules>
+  </component>
+</project>
